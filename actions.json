@@ -1,7 +1,7 @@
 [
 	{
 		"title":"Rabattaktion im Store Würzburg",
-		"content":"Im Store Wüzburg gibt es 40% Rabatt auf alles.",
+		"content":"Im Store Wüzburg gibt es zurzeit 40% Rabatt auf alles.",
 		"date":"2017-08-17T16:00:00.000+0200",
 		"validFrom":"2017-08-17T16:00:00.000+0200",
 		"validTo":"2017-08-18T16:00:00.000+0200",
@@ -12,8 +12,8 @@
 		"perimeter": 100
 	},
 	{
-		"title":"Dies ist ein Titel",
-		"content":"Das ist der Content der News.",
+		"title":"Exklusiver Musterverkauf im s.Oliver Outlet Rottendorf am 22. und 23.8.2017",
+		"content":"Im s.Oliver Outlet Rottendorf findet am 22. und 23. August ein exclusiver Musterverkauf statt. An diesen Tagen kann die aktuelle August und September-Kollektionen aller s.Oliver Labels reduziert im Outlet erworben werden.",
 		"date":"2017-08-17T13:00:00.000+0200",
 		"validFrom":"2017-08-17T14:00:00.000+0200",
 		"validTo":"2017-08-18T14:00:00.000+0200",
