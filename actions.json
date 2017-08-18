@@ -15,8 +15,8 @@
 		"title":"Dies ist ein Titel",
 		"content":"Das ist der Content der News.",
 		"date":"2017-08-17T18:00:00.000+0200",
-		"validFrom":"2017-08-17T18:00:00.000+0200",
-		"validTo":"2017-08-18T18:00:00.000+0200",
+		"validFrom":"2017-08-17T14:00:00.000+0200",
+		"validTo":"2017-08-18T14:00:00.000+0200",
 		"location":{ 
 			"lat": 49.792291,
 			"long": 10.025676
