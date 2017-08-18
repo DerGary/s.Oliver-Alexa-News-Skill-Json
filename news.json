@@ -1,12 +1,17 @@
 [
 	{
-		"title":"Dies ist ein Titel",
-		"content":"Das ist der Content der News.",
-		"date":"2017-08-17T16:00:00.000+0200"
+		"title":"Günstige T-Shirts",
+		"content":"Ab 28.08. gibt es 20% auf alle T-Shirt.",
+		"date":"2017-08-16T16:00:00.000+0200"
 	},
 	{
-		"title":"Zweite News",
-		"content":"Bei sOliver gibt es ganz viele News",
+		"title":"Karos im Trend",
+		"content":"Im September sind Karos voll im Trend.",
 		"date":"2017-08-17T18:00:00.000+0200"
+	},
+	{
+		"title":"Schicke Jacken",
+		"content":"Ab Morgen sind im Würzburger Store Schicke Jacken im Angebot.  ",
+		"date":"2017-08-18T18:00:00.000+0200"
 	}
 ]
