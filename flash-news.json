@@ -1,3 +1,17 @@
 [
+  {
+    "uid": "flash-news-1",
+    "updateDate": "2017-08-17T00:00:00.0Z",
+    "titleText": "s Oliver ALexa Hackathon startet",
+    "mainText": "Am Donnerstag, den 17.08.2017, startet der s Oliver ALexa Hackathon",
+    "redirectionUrl": "https://www.soliver.com"
+   },
+  {
+    "uid": "flash-news-2",
+    "updateDate": "2017-08-18T00:00:00.0Z",
+    "titleText": "s Oliver ALexa Hackathon endet",
+    "mainText": "Heute, den 18.08.2017, geht der s Oliver Alexa Hackathon zu Ende",
+    "redirectionUrl": "https://www.soliver.com"
+  }
 ]
 
