@@ -1,17 +1,17 @@
 [
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the first item.",
-    "redirectionUrl": "https://www.amazon.com"
+    "uid": "flash-news-1",
+    "updateDate": "2017-08-16T00:00:00.0Z",
+    "titleText": "Erste News von s Oliver",
+    "mainText": "Bei s Oliver ist immer etwas los",
+    "redirectionUrl": "https://www.soliver.com"
    },
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
-    "redirectionUrl": "https://www.amazon.com"
+    "uid": "flash-news-2",
+    "updateDate": "2017-08-17T00:00:00.0Z",
+    "titleText": "Zweite News von s Oliver",
+    "mainText": "Bei s Oliver ist immer etwas los",
+    "redirectionUrl": "https://www.soliver.com"
   }
 ]
 
