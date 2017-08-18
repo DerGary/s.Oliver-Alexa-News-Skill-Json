@@ -1,0 +1,26 @@
+[
+	{
+		"title":"Rabattaktion im Store Würzburg",
+		"content":"Im Store Wüzburg gibt es 40% Rabatt auf alles.",
+		"date":"2017-08-17T16:00:00.000+0200",
+		"validFrom":"2017-08-17T16:00:00.000+0200",
+		"validTo":"2017-08-18T16:00:00.000+0200",
+		"location":{ 
+			"lat": 49.792291,
+			"long": 10.025676
+		},
+		"perimeter": 100
+	},
+	{
+		"title":"Dies ist ein Titel",
+		"content":"Das ist der Content der News.",
+		"date":"2017-08-17T18:00:00.000+0200",
+		"validFrom":"2017-08-17T18:00:00.000+0200",
+		"validTo":"2017-08-18T18:00:00.000+0200",
+		"location":{ 
+			"lat": 49.792291,
+			"long": 10.025676
+		},
+		"perimeter": 100
+	}
+]
